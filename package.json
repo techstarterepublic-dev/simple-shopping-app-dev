@@ -1,0 +1,24 @@
+{
+  "name": "simple-shopping-app-dev",
+  "version": "1.0.0",
+  "description": "A simple shopping Application for development purposes. Frontend is NGINX and backend is NodeJS.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techstarterepublic-dev/simple-shopping-app-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techstarterepublic-dev/simple-shopping-app-dev/issues"
+  },
+  "homepage": "https://github.com/techstarterepublic-dev/simple-shopping-app-dev#readme"
+}
